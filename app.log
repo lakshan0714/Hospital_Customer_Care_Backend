@@ -1,0 +1,11 @@
+2025-08-21 22:26:30,165 - asyncio - DEBUG - Using selector: SelectSelector
+2025-08-21 22:27:09,955 - asyncio - DEBUG - Using selector: SelectSelector
+2025-08-21 22:27:47,343 - asyncio - DEBUG - Using selector: SelectSelector
+2025-08-21 22:27:50,769 - asyncio - DEBUG - Using selector: SelectSelector
+2025-08-21 22:27:52,923 - asyncio - DEBUG - Using selector: SelectSelector
+2025-08-21 22:27:55,943 - asyncio - DEBUG - Using selector: SelectSelector
+2025-08-21 22:27:59,344 - asyncio - DEBUG - Using selector: SelectSelector
+2025-08-21 22:28:53,034 - asyncio - DEBUG - Using selector: SelectSelector
+2025-08-21 22:29:08,874 - asyncio - DEBUG - Using selector: SelectSelector
+2025-08-21 22:31:02,289 - asyncio - DEBUG - Using selector: SelectSelector
+2025-08-21 22:31:17,316 - asyncio - DEBUG - Using selector: SelectSelector
